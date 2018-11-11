@@ -39,7 +39,7 @@ Fast Artificial Neural Network Library (FANN)
 
 First you'll want to clone the repository:
 
-`git clone https://github.com/johnathamelo/cgpbp-lib.git`
+`git clone https://github.com/johnathanmelo/cgpbp-lib.git`
 
 Once that's finished, navigate to the Root directory. In this case it would be ./cgpbp-lib:
 
